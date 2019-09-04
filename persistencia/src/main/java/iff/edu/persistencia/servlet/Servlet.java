@@ -5,7 +5,7 @@
  */
 package iff.edu.persistencia.servlet;
 
-import iff.edu.persistencia.Usuario;
+import users.Usuario;
 import java.io.IOException;
 import java.io.PrintWriter;
 import javax.servlet.ServletException;

@@ -5,7 +5,7 @@
  */
 package util;
 
-import iff.edu.persistencia.Usuario;
+import users.Usuario;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.AnnotationConfiguration;
